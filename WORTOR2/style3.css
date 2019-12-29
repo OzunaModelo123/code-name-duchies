@@ -1,0 +1,77 @@
+body{
+    background-color: #E5E5E5;
+}
+.container{
+    text-align: center;
+    margin-top: 50px;
+}
+.form{
+    padding: 100px;
+    font-size: 12px;
+    width: 76%;
+    text-align: left;
+    margin-right: 150px;
+    text-align: left;
+}
+#float{
+    text-align: left;
+    width: 60%;
+    font-size: 14px;
+}
+.another{
+    background-color: #ffffff;
+    width: 522px;
+    margin: auto;
+    padding: 20px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+h2{
+    font-size: 15px;
+    text-align: left;
+}
+h1{
+    font-size: 20px;
+}
+#para{
+    float: right;
+    margin-right: 112px;
+}
+#para a{
+    color: #27AE60;
+}
+input, h2{
+    padding-top: 20px;
+}
+.bold{
+    font-weight: 500;
+    margin-right: 140px;
+}
+.form-control{
+    width: 75%;
+}
+span{
+    color: #27AE60;
+}
+.basic{
+    margin-top: 20px;
+    font-weight: 600;
+    width: 50%;
+}
+.mainn{
+    width: 77%;
+    padding: 10px 10px 10px 0px;
+    margin-left: -110px;
+}
+#thisid{
+    padding: 10px;
+    margin-left: -40px;
+}
+#malibu{
+    margin-left: -100px;
+}
+@media screen and (min-width:360px){
+    #malibu{
+       margin-right: -120px;
+    }
+}

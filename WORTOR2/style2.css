@@ -1,0 +1,65 @@
+body{
+    background-color: #E5E5E5;
+}
+.container{
+    text-align: center;
+    margin-top: 50px;
+}
+.main-div{
+    background-color: #DFF3E7;
+    width: 75.5%;
+    padding: 20px 0px 20px 0px;
+    border: 1px solid rgb(198, 198, 216);
+    border-style: dotted;
+}
+#float{
+    text-align: left;
+    width: 60%;
+    font-size: 14px;
+}
+.another{
+    background-color: #ffffff;
+    width: 522px;
+    margin: auto;
+    padding: 20px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+h2{
+    font-size: 15px;
+    text-align: left;
+}
+h1{
+    font-size: 20px;
+}
+#para{
+    float: right;
+    margin-right: 112px;
+}
+#para a{
+    color: #27AE60;
+}
+.days{
+float: left;
+margin-bottom: 25px;
+}
+span{
+    float: right;
+}
+input, h2{
+    padding-top: 20px;
+}
+.bold{
+    font-weight: 500;
+    margin-right: 140px;
+}
+.form-control{
+    width: 75%;
+}
+span{
+    color: #27AE60;
+}
+.basic{
+    font-weight: 600;
+    width: 50%;
+}

@@ -1,0 +1,62 @@
+  body{
+    background-color: #E5E5E5;
+  }
+  .container{
+        text-align: left;
+        margin-top: 50px;
+    }
+    .donate{
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    .another{
+        background-color: #ffffff;
+        width: 522px;
+        margin: auto;
+        padding: 20px;
+        padding-left: 50px;
+        padding-bottom: 50px;
+    }
+    h4{
+        font-size: 14px;
+        padding: 4px;
+        font-weight: 700;
+    }
+    h3{
+        font-size: 20px;
+        font-weight: 900;
+    } 
+    .basic{
+        margin-top: 20px;
+        font-weight: 600;
+        width: 40%;
+    }
+    #thisid{
+        float: right;
+        margin-top: -40px;
+        margin-right: 80px;
+        color: #8CCBE7;
+        font-weight: 500;
+    }
+    .form-control{
+        font-size: 12px;
+        width: 76%;
+        text-align: left;
+        margin-right: 150px;
+        text-align: left;
+    }
+    #float{
+        text-align: left;
+        width: 87%;
+        font-size: 14px;
+    }
+    .paypal{
+        float: right;
+        margin-right: 80px;
+        margin-top: -20px;
+    }
+    .mastercard{
+        float: right;
+        margin-right: 110px;
+        margin-top: 19px;
+    }

@@ -1,0 +1,93 @@
+body{
+    background-color: #E5E5E5;
+    text-align: center;
+}
+.container{
+    margin-top: 50px;
+}
+#thisid{
+    padding: 90px;
+    font-size: 12px;
+    width: 76%;
+    height: 300px;
+}
+#bank{
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+i{
+    color: #4F4F4F;
+}
+.acc{
+    margin-bottom: 20px;
+}
+#float{
+    text-align: left;
+    width: 90%;
+    font-size: 14px;
+}
+.another{
+    background-color: #ffffff;
+    width: 622px;
+    margin: auto;
+    padding: 20px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    text-align: left;
+}
+h2{
+    font-size: 15px;
+    text-align: left;
+    font-weight: 900;
+}
+h1{
+    font-size: 20px;
+}
+#para{
+    float: right;
+    margin-right: 112px;
+}
+#para a{
+    color: #27AE60;
+}
+input, h2{
+    padding-top: 20px;
+}
+.bold{
+    font-weight: 500;
+    margin-right: 140px;
+}
+.form-control{
+    width: 75%;
+}
+span{
+    color: #27AE60;
+}
+.basic{
+    margin-top: 20px;
+    font-weight: 600;
+    width: 40%;
+}
+.mainn{
+    width: 77%;
+    padding: 10px 10px 10px 0px;
+}
+#impact{
+    margin-left: 150px;
+    margin-top: -30px;
+    padding-bottom: 20px;
+}
+#impact a{
+    color: #27AE60;
+    text-decoration: none;
+}
+#malibu{
+    margin-left: -220px;
+    text-align: center;
+}
+@media screen and (min-width:320px){
+    #malibu{
+       margin-right: -240px;
+       padding: 20px auto;
+    }
+}

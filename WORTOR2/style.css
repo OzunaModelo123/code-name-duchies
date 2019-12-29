@@ -1,0 +1,41 @@
+body{
+    background-color:rgb(248, 242, 242);
+}
+.navbar-brand {
+    font-family: 'Karla', sans-serif;
+}
+.nav-item{
+    margin-left: 110px;
+    font-size: 14px;    
+}
+.badge{
+position: absolute;
+left: 1080px;
+top: 15px;
+}
+.head{
+    margin: 32px 0px 10px 100px;
+}
+.header-div p{
+    margin-left: 30px;
+}
+#wave{
+position: absolute;
+left: 590px;
+top: 65px;
+width: 50%;
+}
+.this-side{
+    float: right;
+    position: absolute;
+    left: 690px;
+    top: 280px;
+}
+.this-side p{
+    width: 35%;
+}
+.this{
+    position: absolute;
+    left: 210px;
+    top: -5px;
+}

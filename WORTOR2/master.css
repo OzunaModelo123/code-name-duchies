@@ -1,0 +1,62 @@
+.hello{
+    padding: 40px 0px 0px 90px;
+    font-weight: bold;
+}
+.important{
+    padding-top: 5px;
+    padding-bottom: 5px ;
+    padding-left: 20px;
+    padding-left: 20px;
+    font-size: 12px;
+}
+.main-class{
+    width: 30%;
+    margin: 40px auto;
+}
+.main-class a{
+    text-decoration: none;
+}
+.control1{
+    margin-bottom: 20px;
+}
+.new-login{
+    width: 60%;
+    margin-top: 10px;
+    font-weight: 700;
+}
+ul li{
+    display: inline ;
+    margin-left: -5px;
+}
+.li-class{
+    font-weight: bold;
+    background-color: #27AE60;
+    color: #ffffff;
+    padding: 3px 50px 3px 50px;
+}
+
+.ul-span{
+    color: #27AE60;
+    border: 1px solid #27AE60;
+    padding: 2px 6px 2px 6px;
+    font-weight: bold;
+
+}
+.need{
+    font-weight: bold;
+}
+.move{
+    margin-top: 20px;
+    box-shadow: 2px 2px rgb(209, 209, 209);
+}
+@media screen and (max-width:1024px){
+    .main-class{
+        min-width: 100%;
+        font-size: 20px;
+        padding: 10px;
+    }
+    .hello{
+        margin-left: -60px;
+    }
+
+}
